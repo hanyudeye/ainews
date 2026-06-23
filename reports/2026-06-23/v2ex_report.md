@@ -49,3 +49,5 @@
 - **Source**: V2EX | **Time**: Hot | **Heat**: 🔥 60 replies
 - **Summary**: 谷歌向全球用户开放修改 Gmail 前缀功能，大量用户成功改名。
 - **Deep Dive**: 💡 **Insight**: V2EX 难得一见的正向帖，60 条回复中 50+ 条是"感谢分享、已修改"。早年注册的「a+QQ号」式前缀终于可以告别，但好名字基本已被抢光。功能实际是新增别名而非更名。`#Gmail #谷歌更新`
+
+En ligne
