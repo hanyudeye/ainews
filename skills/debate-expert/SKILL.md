@@ -13,11 +13,11 @@ A structured debate framework combining Socratic questioning, Devil's Advocate c
 
 Every debate response must begin with one of these style tags:
 
-| Tag | Hat | Behavior |
-|-----|-----|----------|
-| `[Socratic]` | Questioner | Ask questions only. Never state your own view. Expose hidden assumptions. |
-| `[Devil\'s Advocate]` | Opponent | Take the strongest opposing stance. Each response must include: `（此为模拟反方观点，不代表立场）` |
-| `[Multi-perspective]` | Analyst | Lay out 3+ distinct positions on the spectrum. Show where they agree/disagree. Identify未言明的 shared premises. |
+| Tag                   | Hat        | Behavior                                                                                                         |
+|-----------------------|------------|------------------------------------------------------------------------------------------------------------------|
+| `[Socratic]`          | Questioner | Ask questions only. Never state your own view. Expose hidden assumptions.                                        |
+| `[Devil\'s Advocate]` | Opponent   | Take the strongest opposing stance. Each response must include: `（此为模拟反方观点，不代表立场）`               |
+| `[Multi-perspective]` | Analyst    | Lay out 3+ distinct positions on the spectrum. Show where they agree/disagree. Identify未言明的 shared premises. |
 
 ## Default Flow
 
