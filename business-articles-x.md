@@ -18,6 +18,8 @@
 | 8 | **@Apple** | 6/8-12 | **WWDC 2026：AI 战略全面铺开**: Siri 大模型升级、Apple Intelligence、visionOS 2。 | [📄](articles/x/2026-06/08-apple-wwdc-2026.md) |
 | 9 | **@federalreserve** | 6/10-11 | **美联储 6 月利率决议**: AI 投资热潮与通胀数据影响货币政策决策。 | [📄](articles/x/2026-06/09-fed-rate-decision-june-2026.md) |
 | 10 | **@replit / @cursor** | 6 月 | **AI 编程工具革命**: Replit Agent、Cursor、Hermes Agent + Stripe 整合引爆开发者社区。 | [📄](articles/x/2026-06/10-ai-coding-tools-replit-cursor.md) |
+| 11 | **@naval** | 2018–2026 | **Naval Ravikant 如何赚钱**: 追溯其"如何致富"推文串，拆解 AngelList、投资组合、加密资产等收入结构，估算净资产 $80–120M。 | [📄](articles/x/2026-06/11-naval-ravikant-business-tweets.md) |
+| 12 | **行业报告** | 2026 | **人形机器人 2026 全景**: 已上市机型价格、大规模普及时间线（2028 工业→2035 家用）、人机共存模式预测。 | [📄](articles/x/2026-06/12-humanoid-robot-2026-era.md) |
 
 ---
 
